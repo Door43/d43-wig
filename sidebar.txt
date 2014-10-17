@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wig:home|Door43 (wig)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wig|d43-wig repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wig/archive/master.zip|d43-wig.zip]]
+
+**Recent Changes**
+{{changes>ns = wig}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wig|Ethnologue data]]
+
